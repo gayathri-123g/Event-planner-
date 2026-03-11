@@ -1,1 +1,1 @@
-# python-notes
+Event Planning website
